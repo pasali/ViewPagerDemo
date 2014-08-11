@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Titles -->
+    <string name="app_name">Haberler.com</string>
+    <string name="title_screen_slide">Haberler.com</string>
+
+    <!-- Actions -->  
+    <string name="title_activity_show">ShowActivity</string>
+    <string name="action_settings">Ayarlar</string>
+
+</resources>
